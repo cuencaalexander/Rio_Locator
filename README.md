@@ -10,9 +10,11 @@ After cloning the project, go to the directory where cloned it and run the follo
 
 ## Configuration
 
-In the .env file located in the root of your project, you have to add your own Google API in the following form:
+In the root of your project, create an *.env* file and add your own Google API in this file, in the following form:
 
+```shell
 REACT_APP_Google_Map_API_KEY=*REPLACE_WITH_YOUR_KEY_HERE*
+```
 
 In the project directory, you can run:
 
