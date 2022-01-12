@@ -13,7 +13,7 @@ After cloning the project, go to the directory where cloned it and run the follo
 In the root of your project, create an *.env* file and add your own Google API in this file, in the following form:
 
 ```shell
-REACT_APP_Google_Map_API_KEY=*REPLACE_WITH_YOUR_KEY_HERE*
+REACT_APP_Google_Map_API_KEY=REPLACE_WITH_YOUR_KEY_HERE
 ```
 
 In the project directory, you can run:
